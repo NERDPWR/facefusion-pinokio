@@ -1,2 +1,2 @@
-FaceFusion Pinokio 3.5.3
+FaceFusion 3.5.3 for Pinokio
 ==================
